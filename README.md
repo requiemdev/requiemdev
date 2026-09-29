@@ -10,12 +10,11 @@
   <a href="https://github.com/requiemdev">GitHub</a>
 </p>
 
-## Selected work
+## Selected Projects
 
 - 🏆 [Tank Arena](https://github.com/requiemdev/Tank-Arena-26-ECSE-Design-Comp) — winner of the Engineering Excellence Award at the University of Auckland's 2026 ECSE Design Competition.
 - ⚡ [Vehicle API](https://github.com/requiemdev/vehicle_api) — full-stack EV charging app built with C# and Azure.
 - 🤖 [Astral Bot](https://github.com/requiemdev/astral_bot) — an all-in-one Discord bot built with JavaScript.
-- 📈 [FFXIV Market Predict](https://github.com/requiemdev/ffxiv_market_predict) — TypeScript market-analysis tooling.
 
 ## Languages
 
@@ -29,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,dotnet,mongodb,firebase,gcp,azure,arduino,git,postman,figma&perline=7" alt="React, Node.js, Express, Spring, .NET, MongoDB, Firebase, Google Cloud, Azure, Arduino, Git, Postman, and Figma" />
 </p>
 
-Backend focus: REST APIs, Java/Spring, C#/.NET, Node.js/Express, MongoDB, Firebase, Azure, and Google Cloud.
+REST APIs, Java/Spring, C#/.NET, Node.js/Express, MongoDB, Firebase, Azure, and Google Cloud.
 
 Also used: MATLAB, pandas, scikit-learn, Tailwind CSS, and Heroku.
 
